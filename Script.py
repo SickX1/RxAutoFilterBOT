@@ -11,14 +11,14 @@ Glad to see you here. It seems that you really love <a href=https://t.me/Rx_Crea
 Thanks for thinking about us.\nIt seems that you really love <a href=https://t.me/Rx_Creator >Rx Creator</a> work.\n\n<b>For your kind information, we do not ask or force anyone for any kind of payment</b>. But if you really want to donate us then you can send money to us from below links...\n\n💵 Reach Donation Page : <a href=http://t.me/Rx_Creator>Click here...</a>\n\nT❤️ hank you so much..
     """
     REQ_AUTH_TEXT = """Hello {},
-\nSorry sweetie.. You must have to be the Authentic User to complete this operation...\n\n👮‍♀ REPORT ISSUE HERE: <a href=https://t.me/LazyDeveloperSupport>LazyDeveloper Support</a>\n\n
+\nSorry sweetie.. You must have to be the Authentic User to complete this operation...\n\n👮‍♀ REPORT ISSUE HERE: <a href=https://t.me/Rx_Creator>Rx Creator</a>\n\n
     """
     ALRDY_UPLDD_TEXT = """✅ Content is already uploaded.\n\nName:{}\nPlease make sure about your spelling before submiting request..."""
     HELP_TXT = """𝙷𝙴𝚈 {}
 Here is the help for my COMMANDS."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ OWNER: <a href=https://t.me/@cross_king7>ᴄʀᴏss ᴘʀᴏᴍᴏᴛɪᴏɴ King 👑</a>
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/LazyDeveloper>LazyDeveloper</a>
+✯ OWNER: <a href=https://t.me/@Rx_Creator> Rx Creator👑</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Rx_Creator>Rx Creator</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -28,7 +28,7 @@ Here is the help for my COMMANDS."""
 -  its a private property. 
 
 <b>DEVS:</b>
-- <a href=https://t.me/LazyDeveloper>LazyDeveloper</a>"""
+- <a href=https://t.me/Rx_Creator>Rx Creator</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and LazyPriness will respond whenever that keyword hits the message
