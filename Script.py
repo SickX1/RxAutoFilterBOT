@@ -2,10 +2,10 @@ class script(object):
     START_TXT = """Hello {},
 Myself <a href=https://t.me/{}>{}</a>,\n\nTrust me ! I can't even imagine how super-fast i can drive your Database channel \n\nAre you ready for Long Drive Baby...🤪"""
     LZTHMB_TEXT = """Hello {},
-Glad to see you here. It seems that you really love <a href=https://t.me/Rx_Creator >Rx Creator</a> work.\n\n<b>Thumbnail extracting</b> feature will be available soon, please join <a href=https://t.me/Rx_Creator>Dev Channel</a> and stay tuned for next <a href=https://t.me/Rx_Creator>update</a>.\n\n  🐞 Report Bug here: <a href=http://t.me/Rx_Creator>Rx Creator Support</a>
+Glad to see you here. It seems that you really love <a href=https://t.me/Rx_Creator >Rx Creator</a> work.\n\n<b>Thumbnail extracting</b> feature will be available soon, please join <a href=https://t.me/Rx_Creator>Dev Channel</a> and stay tuned for next <a href=https://t.me/Rx_Creator>update</a>.\n\n  🐞 Report Bug here: <a href=http://t.me/Rx_Creator>Rx botz Support</a>
     """
     LZLINK_TEXT = """Hey {},
-Glad to see you here. It seems that you really love <a href=https://t.me/LazyDeveloperr >LazyDeveloper's</a> work.\n\n<b>File to LiNK converting</b> feature will be available soon, please join <a href=https://t.me/LazyDeveloper>Dev Channel</a> and stay tuned for next <a href=https://t.me/LazyDeveloper>update</a>.\n\n  🐞 Report Bug here: <a href=http://t.me/LazyDeveloperSupport>LazyDev Support</a>
+Glad to see you here. It seems that you really love <a href=https://t.me/Rx_Creator >Rx Creator</a> work.\n\n<b>File to LiNK converting</b> feature will be available soon, please join <a href=https://t.me/LazyDeveloper>Dev Channel</a> and stay tuned for next <a href=https://t.me/Rx_botz>update</a>.\n\n  🐞 Report Bug here: <a href=http://t.me/Rx_botz>Rx botz Support</a>
     """
     DNT_TEXT = """Hey sweetie {},
 Thanks for thinking about us.\nIt seems that you really love <a href=https://t.me/LazyDeveloperr >LazyDeveloper's</a> work.\n\n<b>For your kind information, we do not ask or force anyone for any kind of payment</b>. But if you really want to donate us then you can send money to us from below links...\n\n💵 Reach Donation Page : <a href=http://t.me/DonateLazyDeveloper>Click here...</a>\n\nT❤️ hank you so much..
